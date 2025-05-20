@@ -62,6 +62,7 @@ function getJitteredInterval(base) {
 }
 
 function startMonitor(username) {
+  console.log(`[${username}] Monitoring started.`);
   const client = new WebcastPushConnection(username);
   liveData[username] = {
     startTime: null,
@@ -231,6 +232,18 @@ function startMonitor(username) {
   })();
 }
 
+console.log('=== TikTok Live Monitoring started ===');
+console.log('Tanggal & waktu:', new Date().toLocaleString('id-ID'));
+console.log('Akun yang dimonitor:', accounts.join(', '));
+
 accounts.forEach(username => {
   startMonitor(username);
 });
+
+// Info jika semua akun idle (tidak live)
+setInterval(() => {
+  const idleAccounts = Object.entries(liveData).filter(([_, d]) => d.status === 'idle');
+  if (idleAccounts.length === accounts.length) {
+    console.log('Semua akun sedang tidak live pada', new Date().toLocaleString('id-ID'));
+  }
+}, 10 * 60 * 1000); // cek tiap 10 menit
