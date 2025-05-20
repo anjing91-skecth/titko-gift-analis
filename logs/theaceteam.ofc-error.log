@@ -1,92 +1,224 @@
-[2025-05-20T11:07:03.661Z] undefined
-[2025-05-20T11:08:28.749Z] undefined
-[2025-05-20T11:08:32.177Z] undefined
-[2025-05-20T11:08:35.974Z] undefined
-[2025-05-20T11:08:39.371Z] undefined
-[2025-05-20T11:08:43.052Z] undefined
-[2025-05-20T11:08:46.547Z] undefined
-[2025-05-20T11:08:50.386Z] undefined
-[2025-05-20T11:08:53.742Z] undefined
-[2025-05-20T11:08:57.433Z] undefined
-[2025-05-20T11:09:00.876Z] undefined
-[2025-05-20T11:09:05.305Z] undefined
-[2025-05-20T11:09:08.764Z] undefined
-[2025-05-20T11:09:12.518Z] undefined
-[2025-05-20T11:09:15.933Z] undefined
-[2025-05-20T11:09:20.166Z] undefined
-[2025-05-20T11:09:23.559Z] undefined
-[2025-05-20T11:09:27.221Z] undefined
-[2025-05-20T11:09:30.688Z] undefined
-[2025-05-20T11:09:34.581Z] undefined
-[2025-05-20T11:09:37.962Z] undefined
-[2025-05-20T11:09:41.656Z] undefined
-[2025-05-20T11:09:45.044Z] undefined
-[2025-05-20T11:09:48.744Z] undefined
-[2025-05-20T11:09:52.263Z] undefined
-[2025-05-20T11:09:55.930Z] undefined
-[2025-05-20T11:09:59.355Z] undefined
-[2025-05-20T11:10:03.057Z] undefined
-[2025-05-20T11:10:06.472Z] undefined
-[2025-05-20T11:10:10.159Z] undefined
-[2025-05-20T11:10:13.560Z] undefined
-[2025-05-20T11:10:17.297Z] undefined
-[2025-05-20T11:10:20.703Z] undefined
-[2025-05-20T11:12:53.224Z] Unknown error
-[2025-05-20T11:12:56.612Z] Unknown error
-[2025-05-20T11:13:00.299Z] Unknown error
-[2025-05-20T11:17:53.712Z] Unknown error
-[2025-05-20T11:17:57.223Z] Unknown error
-[2025-05-20T11:18:01.006Z] Unknown error
-[2025-05-20T11:18:04.391Z] Unknown error
-[2025-05-20T11:18:08.110Z] Unknown error
-[2025-05-20T11:18:11.611Z] Unknown error
-[2025-05-20T11:18:15.940Z] Unknown error
-[2025-05-20T11:18:19.369Z] Unknown error
-[2025-05-20T11:18:48.701Z] Unknown error
-[2025-05-20T11:18:52.122Z] Unknown error
-[2025-05-20T11:18:55.829Z] Unknown error
-[2025-05-20T11:18:59.183Z] Unknown error
-[2025-05-20T11:19:02.907Z] Unknown error
-[2025-05-20T11:19:06.329Z] Unknown error
-[2025-05-20T11:19:09.999Z] Unknown error
-[2025-05-20T11:19:13.436Z] Unknown error
-[2025-05-20T11:19:17.247Z] Unknown error
-[2025-05-20T11:24:52.156Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:24:55.566Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:24:59.488Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:02.871Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:06.653Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:10.032Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:14.229Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:17.644Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:21.321Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:24.753Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:28.453Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:31.876Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:35.578Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:39.011Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:42.721Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:46.155Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:49.891Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:53.342Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:25:57.055Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:26:00.464Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:26:04.268Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:30:43.812Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:30:47.322Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:30:51.094Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:30:54.516Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:30:58.236Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:31:01.670Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:31:05.376Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:31:08.765Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:13.269Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:16.752Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:20.416Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:23.929Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:27.596Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:31.042Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:34.732Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:38.969Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:42.654Z] {"info":"Error while connecting","exception":{}}
-[2025-05-20T11:34:46.048Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:26:48.565Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:26:51.977Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:26:55.983Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:26:59.607Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:03.304Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:06.890Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:10.884Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:14.468Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:18.640Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:22.076Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:25.791Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:29.172Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:33.029Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:36.421Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:40.142Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:43.554Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:47.335Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:50.783Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:54.512Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:27:57.996Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:01.773Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:05.216Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:09.006Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:12.486Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:16.230Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:19.678Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:23.436Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:26.815Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:30.569Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:34.028Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:37.809Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:41.294Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:45.083Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:48.568Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:52.282Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:55.718Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:28:59.901Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:03.425Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:07.156Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:10.969Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:14.889Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:18.271Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:22.103Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:25.580Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:29.535Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:32.926Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:36.617Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:39.995Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:43.759Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:47.134Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:50.911Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:54.419Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:29:58.458Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:01.871Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:05.813Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:09.392Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:13.288Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:16.841Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:20.573Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:24.029Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:27.919Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:31.449Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:35.163Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:38.632Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:42.381Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:45.774Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:49.462Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:52.922Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:30:56.752Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:00.197Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:04.036Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:07.426Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:11.130Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:14.587Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:18.571Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:22.013Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:25.719Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:29.138Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:32.849Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:37.068Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:40.784Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:44.179Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:48.042Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:51.478Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:55.230Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:31:58.686Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:02.426Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:05.937Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:09.673Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:13.068Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:16.743Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:20.183Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:23.928Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:27.354Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:31.107Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:34.506Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:38.168Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:42.267Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:46.054Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:49.512Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:53.272Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:32:56.713Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:33:00.504Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:33:04.041Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:33:07.728Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:33:11.151Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:33:14.787Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:33:18.195Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:33:21.901Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:10.167Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:13.612Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:17.536Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:21.050Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:25.397Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:29.018Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:33.051Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:36.475Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:40.193Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:43.640Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:47.323Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:50.775Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:54.433Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:54:57.837Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:02.018Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:05.624Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:09.317Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:12.837Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:16.502Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:19.925Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:24.105Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:27.520Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:31.238Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:35.280Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:39.078Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:42.438Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:46.233Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:49.617Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:53.360Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:55:56.749Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:00.426Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:03.830Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:07.511Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:10.898Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:14.567Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:17.981Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:21.719Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:25.105Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:28.861Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:32.268Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:36.107Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:39.460Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:43.170Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:46.652Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:50.412Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:53.786Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:56:57.492Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:00.910Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:04.569Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:07.967Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:11.677Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:15.081Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:18.768Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:22.202Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:25.920Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:29.324Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T15:57:33.026Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:07:35.474Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:07:38.915Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:07:42.898Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:07:46.335Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:07:49.981Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:07:53.742Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:07:57.400Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:00.918Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:04.835Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:08.226Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:11.882Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:15.338Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:19.018Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:22.411Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:26.127Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:29.480Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:33.345Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:36.769Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:40.439Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:43.823Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:47.640Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:51.104Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:55.321Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:08:58.802Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:09:02.417Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:09:05.818Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:09:09.496Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:09:13.208Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:13:59.794Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:03.637Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:07.465Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:10.912Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:14.733Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:18.114Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:21.978Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:25.397Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:29.093Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:32.472Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:36.170Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:39.533Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:43.230Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:46.622Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:50.415Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:53.891Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:14:57.544Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:00.944Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:04.908Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:08.286Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:12.147Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:15.587Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:19.317Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:22.777Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:26.647Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:30.283Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:34.199Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:37.570Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:41.480Z] {"info":"Error while connecting","exception":{}}
+[2025-05-20T16:15:44.880Z] {"info":"Error while connecting","exception":{}}
