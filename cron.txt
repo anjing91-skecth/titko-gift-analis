@@ -1,0 +1,3 @@
+# Tambahkan ke Railway atau server cron:
+# Mengirim rangkuman harian jam 8 pagi
+0 8 * * * cd /workspaces/titko-gift-analis && /usr/bin/node dailySummary.js

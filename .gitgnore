@@ -1,0 +1,4 @@
+.env
+live_cache.json
+*.xlsx
+logs/
